@@ -5,6 +5,7 @@
 - 구글 코랩에서 바로 수행가능한 예제들
 
 ### ipynb files
+- using R in colab.ipynb 
 - 2nd-wk-examples.ipynb
 - 3rd-wk.ipynb
 - 4th-wk-functions.ipynb
